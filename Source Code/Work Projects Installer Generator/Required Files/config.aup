@@ -1,0 +1,3 @@
+APPLICATION_NAME=Work Projects Installer Generator
+EXECUTABLE=Work Projects Installer Generator.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Work Projects Installer Generator/manifest.xml

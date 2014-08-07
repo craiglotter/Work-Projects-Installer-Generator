@@ -1,0 +1,12 @@
+All CodeUnit work projects use Advanced Installer 1.9 to build their installer files. Work Projects Installer Generator is a simple application that scans through all the work project folders in a specified base folder, searching for existing .aip installer files and then running an existing copy of Advanced Installer (on the system) in order to call a command line build operation. The generated files are then copied across into the project's main release folder.
+
+To select the Projects folder to check, either click on the browse button or drag and drop the folder straight on to the text box. Note that a Projects base folder follows the form of "Base Project Folder" -> "Example App - 04 November 2004" -> "Source Code" -> "Example App - 04 November 2004" -> "Required Files"
+
+To select the Advanced Installer executable to use, either click on the browse button or drag and drop the executable file straight on to the text box.
+
+To start the operation, simply click on the Begin button. 
+
+The help and about menu options brings up the help and about dialog boxes respectively.
+
+
+-- Last Updated: 21/11/2007 --
